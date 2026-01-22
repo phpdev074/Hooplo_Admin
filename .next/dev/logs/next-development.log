@@ -1,29 +1,378 @@
-[00:00:03.676] Server  LOG     ✓ Ready in 3s
-[00:00:06.778] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:10.839] Browser LOG     Login submitted: {"email":"CaksuProvider@gmail.com","password":"QB1&LSur&Irw","rememberMe":false}
-[00:00:12.155] Browser LOG     Login submitted: {"email":"CaksuProvider@gmail.com","password":"QB1&LSur&Irw","rememberMe":false}
-[00:00:13.773] Browser LOG     Login submitted: {"email":"CaksuProvider@gmail.com","password":"QB1&LSur&Irw","rememberMe":true}
-[00:00:14.174] Browser LOG     Login submitted: {"email":"CaksuProvider@gmail.com","password":"QB1&LSur&Irw","rememberMe":true}
-[00:00:14.339] Browser LOG     Login submitted: {"email":"CaksuProvider@gmail.com","password":"QB1&LSur&Irw","rememberMe":true}
-[00:00:14.507] Browser LOG     Login submitted: {"email":"CaksuProvider@gmail.com","password":"QB1&LSur&Irw","rememberMe":true}
-[00:00:14.641] Browser LOG     Login submitted: {"email":"CaksuProvider@gmail.com","password":"QB1&LSur&Irw","rememberMe":true}
-[00:00:14.808] Browser LOG     Login submitted: {"email":"CaksuProvider@gmail.com","password":"QB1&LSur&Irw","rememberMe":true}
-[00:00:14.957] Browser LOG     Login submitted: {"email":"CaksuProvider@gmail.com","password":"QB1&LSur&Irw","rememberMe":true}
-[00:00:15.459] Browser LOG     Login submitted: {"email":"CaksuProvider@gmail.com","password":"QB1&LSur&Irw","rememberMe":true}
-[00:00:15.607] Browser LOG     Login submitted: {"email":"CaksuProvider@gmail.com","password":"QB1&LSur&Irw","rememberMe":true}
-[00:00:15.775] Browser LOG     Login submitted: {"email":"CaksuProvider@gmail.com","password":"QB1&LSur&Irw","rememberMe":true}
-[00:00:15.958] Browser LOG     Login submitted: {"email":"CaksuProvider@gmail.com","password":"QB1&LSur&Irw","rememberMe":true}
-[00:00:18.329] Browser LOG     Login submitted: {"email":"CaksuProvider@gmail.com","password":"QB1&LSur&Irw","rememberMe":true}
-[00:00:18.511] Browser LOG     Login submitted: {"email":"CaksuProvider@gmail.com","password":"QB1&LSur&Irw","rememberMe":true}
-[00:00:18.679] Browser LOG     Login submitted: {"email":"CaksuProvider@gmail.com","password":"QB1&LSur&Irw","rememberMe":true}
-[00:00:20.531] Browser LOG     Login submitted: {"email":"CaksuProvider@gmail.com","password":"QB1&LSur&Irw","rememberMe":true}
-[00:00:20.897] Browser LOG     Login submitted: {"email":"CaksuProvider@gmail.com","password":"QB1&LSur&Irw","rememberMe":true}
-[00:00:21.064] Browser LOG     Login submitted: {"email":"CaksuProvider@gmail.com","password":"QB1&LSur&Irw","rememberMe":true}
-[00:00:21.231] Browser LOG     Login submitted: {"email":"CaksuProvider@gmail.com","password":"QB1&LSur&Irw","rememberMe":true}
-[00:00:27.535] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:35.554] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:42.338] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:44.302] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:49.892] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:51.592] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:01:47.057] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:13.978] Server  LOG     ✓ Ready in 50.9s
+[00:01:17.023] Server  LOG     ○ Compiling /main/AddProvider ...
+[00:01:22.816] Server  LOG     ✓ Finished filesystem cache database compaction in 15.4s
+[00:01:50.747] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:54.948] Browser LOG     Form submitted: {"address":"ertuiop[","areas":"","businessHours":{"Friday":{"enabled":false,"endTime":"17:00","startTime":"09:00"},"Monday":{"enabled":false,"endTime":"17:00","startTime":"09:00"},"Saturday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Sunday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Thursday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Tuesday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Wednesday":{"enabled":true,"endTime":"17:00","startTime":"09:00"}},"city":"sdfghjkl;lkj","confirmPassword":"1","country":"us","description":"ertyuiop[","email":"df@gmail.com","languagesSupported":"dfgh","name":"edfg","password":"1","phone":"2345","postalCode":"234567","selectedCategories":["blood-test-labs","fertility-clinics","injection-nurses","ultrasound-clinics"],"selectedServices":["fertility-supplements"],"serviceType":"laboratory","treatmentSupport":false,"urgencyOptions":["same-day","scheduled","emergency"],"urgencySupport":false,"useMyLocation":false,"verified":false,"website":""}
+[00:03:56.247] Browser LOG     Form submitted: {"address":"ertuiop[","areas":"","businessHours":{"Friday":{"enabled":false,"endTime":"17:00","startTime":"09:00"},"Monday":{"enabled":false,"endTime":"17:00","startTime":"09:00"},"Saturday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Sunday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Thursday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Tuesday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Wednesday":{"enabled":true,"endTime":"17:00","startTime":"09:00"}},"city":"sdfghjkl;lkj","confirmPassword":"1","country":"us","description":"ertyuiop[","email":"df@gmail.com","languagesSupported":"dfgh","name":"edfg","password":"1","phone":"2345","postalCode":"234567","selectedCategories":["blood-test-labs","fertility-clinics","injection-nurses","ultrasound-clinics"],"selectedServices":["fertility-supplements"],"serviceType":"laboratory","treatmentSupport":false,"urgencyOptions":["same-day","scheduled","emergency"],"urgencySupport":false,"useMyLocation":false,"verified":false,"website":""}
+[00:03:58.540] Browser LOG     Form submitted: {"address":"ertuiop[","areas":"","businessHours":{"Friday":{"enabled":false,"endTime":"17:00","startTime":"09:00"},"Monday":{"enabled":false,"endTime":"17:00","startTime":"09:00"},"Saturday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Sunday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Thursday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Tuesday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Wednesday":{"enabled":true,"endTime":"17:00","startTime":"09:00"}},"city":"sdfghjkl;lkj","confirmPassword":"1","country":"us","description":"ertyuiop[","email":"df@gmail.com","languagesSupported":"dfgh","name":"edfg","password":"1","phone":"2345","postalCode":"234567","selectedCategories":["blood-test-labs","fertility-clinics","injection-nurses","ultrasound-clinics"],"selectedServices":["fertility-supplements"],"serviceType":"laboratory","treatmentSupport":false,"urgencyOptions":["same-day","scheduled","emergency"],"urgencySupport":false,"useMyLocation":false,"verified":true,"website":""}
+[00:03:59.164] Browser LOG     Form submitted: {"address":"ertuiop[","areas":"","businessHours":{"Friday":{"enabled":false,"endTime":"17:00","startTime":"09:00"},"Monday":{"enabled":false,"endTime":"17:00","startTime":"09:00"},"Saturday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Sunday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Thursday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Tuesday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Wednesday":{"enabled":true,"endTime":"17:00","startTime":"09:00"}},"city":"sdfghjkl;lkj","confirmPassword":"1","country":"us","description":"ertyuiop[","email":"df@gmail.com","languagesSupported":"dfgh","name":"edfg","password":"1","phone":"2345","postalCode":"234567","selectedCategories":["blood-test-labs","fertility-clinics","injection-nurses","ultrasound-clinics"],"selectedServices":["fertility-supplements"],"serviceType":"laboratory","treatmentSupport":false,"urgencyOptions":["same-day","scheduled","emergency"],"urgencySupport":false,"useMyLocation":false,"verified":true,"website":""}
+[00:04:53.171] Server  WARN    ⚠ Cross origin request detected from 192.168.1.105 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+[00:04:53.320] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:34:37.875] Server  LOG     ✓ Compiled in 21.1s
+[00:43:17.021] Browser LOG     Form submitted: {"address":"ertuiop[","areas":"","businessHours":{"Friday":{"enabled":false,"endTime":"17:00","startTime":"09:00"},"Monday":{"enabled":false,"endTime":"17:00","startTime":"09:00"},"Saturday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Sunday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Thursday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Tuesday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Wednesday":{"enabled":true,"endTime":"17:00","startTime":"09:00"}},"city":"sdfghjkl;lkj","confirmPassword":"1","country":"us","description":"ertyuiop[","email":"df@gmail.com","languagesSupported":"dfgh","name":"edfg","password":"1","phone":"2345","postalCode":"234567","selectedCategories":["blood-test-labs","fertility-clinics","injection-nurses","ultrasound-clinics"],"selectedServices":["fertility-supplements"],"serviceType":"laboratory","treatmentSupport":false,"urgencyOptions":["same-day","scheduled","emergency"],"urgencySupport":false,"useMyLocation":false,"verified":true,"website":""}
+[01:11:11.150] Server  LOG     ✓ Compiled in 9.7s
+[01:11:13.131] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:13:26.333] Server  LOG     ✓ Compiled in 690ms
+[01:21:20.090] Server  LOG     ✓ Compiled in 522ms
+[01:21:25.932] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:22:13.716] Server  LOG     ✓ Compiled in 205ms
+[01:30:38.404] Server  LOG     ✓ Compiled in 305ms
+[02:38:51.348] Server  LOG     ✓ Compiled in 1042ms
+[02:38:57.920] Server  LOG     ✓ Compiled in 307ms
+[02:39:00.699] Server  LOG     ✓ Compiled in 1345ms
+[02:44:16.522] Server  LOG     ✓ Compiled in 456ms
+[02:44:23.190] Server  LOG     ✓ Compiled in 455ms
+[02:44:38.786] Browser ERROR   uncaughtError: TypeError: Cannot read properties of undefined (reading 'ivf')
+[02:44:48.447] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:44:55.779] Server  LOG     ✓ Compiled in 256ms
+[02:44:57.026] Server  LOG     ✓ Compiled in 277ms
+[02:45:08.609] Server  LOG     ✓ Compiled in 819ms
+[02:45:09.764] Browser ERROR   ./sahil/fertigo_web/app/main/AddProvider/page.tsx:171:22
+Parsing ecmascript source code failed
+  169 |   };
+  170 |
+> 171 |   treatmentPrices: {},
+      |                      ^
+  172 |
+  173 |   return (
+  174 |     <div className="min-h-screen bg-gradient-to-br from-gray-50 to-gray-100 p-4 lg:p-8">
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./sahil/fertigo_web/app/main/AddProvider/page.tsx [Client Component Browser]
+    ./sahil/fertigo_web/app/main/AddProvider/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./sahil/fertigo_web/app/main/AddProvider/page.tsx [Client Component SSR]
+    ./sahil/fertigo_web/app/main/AddProvider/page.tsx [Server Component]
+[02:45:09.764] Browser ERROR   ./sahil/fertigo_web/app/main/AddProvider/page.tsx:171:22
+Parsing ecmascript source code failed
+  169 |   };
+  170 |
+> 171 |   treatmentPrices: {},
+      |                      ^
+  172 |
+  173 |   return (
+  174 |     <div className="min-h-screen bg-gradient-to-br from-gray-50 to-gray-100 p-4 lg:p-8">
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./sahil/fertigo_web/app/main/AddProvider/page.tsx [Client Component Browser]
+    ./sahil/fertigo_web/app/main/AddProvider/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./sahil/fertigo_web/app/main/AddProvider/page.tsx [Client Component SSR]
+    ./sahil/fertigo_web/app/main/AddProvider/page.tsx [Server Component]
+[02:45:12.330] Server  LOG     ✓ Compiled in 295ms
+[02:46:25.304] Server  LOG     ✓ Compiled in 177ms
+[02:47:05.102] Server  LOG     ✓ Compiled in 463ms
+[02:47:05.758] Browser ERROR   ./sahil/fertigo_web/app/main/AddProvider/page.tsx:70:28
+Parsing ecmascript source code failed
+  68 |     urgencySupport: false,
+  69 |     description: '',
+> 70 |     treatmentPrices: { [key: string]: number };
+     |                            ^
+  71 |
+  72 |     // Services with prices
+  73 |     selectedServices: [] as string[],
+
+Expected ']', got ':'
+
+Import traces:
+  Client Component Browser:
+    ./sahil/fertigo_web/app/main/AddProvider/page.tsx [Client Component Browser]
+    ./sahil/fertigo_web/app/main/AddProvider/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./sahil/fertigo_web/app/main/AddProvider/page.tsx [Client Component SSR]
+    ./sahil/fertigo_web/app/main/AddProvider/page.tsx [Server Component]
+[02:47:05.758] Browser ERROR   ./sahil/fertigo_web/app/main/AddProvider/page.tsx:70:28
+Parsing ecmascript source code failed
+  68 |     urgencySupport: false,
+  69 |     description: '',
+> 70 |     treatmentPrices: { [key: string]: number };
+     |                            ^
+  71 |
+  72 |     // Services with prices
+  73 |     selectedServices: [] as string[],
+
+Expected ']', got ':'
+
+Import traces:
+  Client Component Browser:
+    ./sahil/fertigo_web/app/main/AddProvider/page.tsx [Client Component Browser]
+    ./sahil/fertigo_web/app/main/AddProvider/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./sahil/fertigo_web/app/main/AddProvider/page.tsx [Client Component SSR]
+    ./sahil/fertigo_web/app/main/AddProvider/page.tsx [Server Component]
+[02:47:10.547] Server  LOG     ✓ Compiled in 313ms
+[02:49:01.137] Server  LOG     ✓ Compiled in 238ms
+[02:51:29.440] Server  LOG     ✓ Compiled in 451ms
+[02:51:37.689] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:02:44.045] Server  LOG     ✓ Compiled in 861ms
+[03:02:58.265] Server  LOG     ✓ Compiled in 323ms
+[03:03:08.461] Server  LOG     ✓ Compiled in 317ms
+[03:04:31.020] Server  LOG     ✓ Compiled in 293ms
+[03:04:46.913] Server  LOG     ✓ Compiled in 659ms
+[03:04:51.727] Server  LOG     ✓ Compiled in 285ms
+[03:05:35.680] Server  LOG     ✓ Compiled in 993ms
+[03:06:35.028] Server  LOG     ✓ Compiled in 288ms
+[03:08:58.331] Server  LOG     ✓ Compiled in 429ms
+[03:09:00.628] Server  LOG     ✓ Compiled in 786ms
+[03:11:42.688] Server  LOG     ✓ Compiled in 766ms
+[03:12:18.542] Server  LOG     ✓ Compiled in 262ms
+[03:13:19.408] Server  LOG     ✓ Compiled in 303ms
+[03:15:11.152] Server  LOG     ✓ Compiled in 301ms
+[03:16:14.136] Server  LOG     ✓ Compiled in 275ms
+[03:17:14.388] Server  LOG     ✓ Compiled in 389ms
+[03:21:49.517] Server  LOG     ✓ Compiled in 427ms
+[03:21:51.707] Server  LOG     ✓ Compiled in 462ms
+[03:22:55.002] Server  LOG     ✓ Compiled in 721ms
+[03:22:56.583] Browser LOG     Pin my location clicked
+[03:22:57.431] Browser LOG     Pin my location clicked
+[03:22:58.243] Browser LOG     Pin my location clicked
+[03:23:31.171] Server  LOG     ✓ Compiled in 185ms
+[03:23:49.675] Server  LOG     ✓ Compiled in 277ms
+[03:24:01.643] Server  LOG     ✓ Compiled in 576ms
+[03:24:04.238] Browser LOG     Pin my location clicked
+[03:26:14.699] Browser LOG     Pin my location clicked
+[03:26:15.155] Browser LOG     Pin my location clicked
+[03:26:15.521] Browser LOG     Pin my location clicked
+[03:26:15.952] Browser LOG     Pin my location clicked
+[03:26:38.502] Server  LOG     ✓ Compiled in 290ms
+[03:41:03.964] Browser LOG     Pin my location clicked
+[03:44:13.443] Server  LOG     ✓ Compiled in 587ms
+[03:44:18.121] Server  LOG     ✓ Compiled in 155ms
+[03:52:40.231] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:24:55.171] Server  LOG     ✓ Compiled in 2.2s
+[04:25:13.858] Server  LOG     ✓ Compiled in 1374ms
+[04:29:39.459] Server  LOG     ✓ Compiled in 1527ms
+[04:29:54.693] Server  LOG     ✓ Compiled in 1375ms
+[04:29:57.224] Browser ERROR   uncaughtError: ReferenceError: useEffect is not defined
+[04:30:03.660] Server  LOG     ✓ Compiled in 3s
+[04:30:03.834] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[04:30:05.879] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:30:08.765] Browser ERROR   Failed to fetch services {}
+[04:30:46.262] Server  LOG     ✓ Compiled in 313ms
+[04:30:51.603] Server  LOG     ✓ Compiled in 326ms
+[04:40:21.770] Server  LOG     ✓ Compiled in 1824ms
+[04:40:22.472] Server  LOG     ✓ Compiled in 331ms
+[04:41:13.536] Server  LOG     ✓ Compiled in 44.2s
+[04:41:38.993] Server  LOG     ✓ Compiled in 584ms
+[04:41:47.346] Server  LOG     ✓ Compiled in 806ms
+[04:41:53.425] Server  LOG     ✓ Compiled in 259ms
+[04:41:59.657] Server  LOG     ✓ Compiled in 197ms
+[04:42:04.842] Server  LOG     ✓ Compiled in 241ms
+[04:43:13.493] Server  LOG     ✓ Compiled in 278ms
+[04:43:26.704] Server  LOG     ✓ Compiled in 290ms
+[04:43:48.518] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:43:50.949] Browser LOG     {"config":{"adapter":["xhr","http","fetch"],"allowAbsoluteUrls":true,"baseURL":"http://85.31.234.205:5200","env":{},"headers":{"Accept":"application/json, text/plain, */*"},"maxBodyLength":-1,"maxContentLength":-1,"method":"get","timeout":0,"transformRequest":[null],"transformResponse":[null],"transitional":{"clarifyTimeoutError":false,"forcedJSONParsing":true,"silentJSONParsing":true},"url":"/service?page=1&limit=10","xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN"},"data":{"data":[{"__v":0,"_id":"69709f816629e9fd8335c073","createdAt":"2026-01-21T09:42:25.407Z","icon":"https://example.com/icons/dog-walking.png","name":"Xray & Scans","updatedAt":"2026-01-21T09:42:25.407Z"},{"__v":0,"_id":"69709f756629e9fd8335c071","createdAt":"2026-01-21T09:42:13.796Z","icon":"https://example.com/icons/dog-walking.png","name":"Ultrasound","updatedAt":"2026-01-21T09:42:13.796Z"},{"__v":0,"_id":"697098236629e9fd8335c06d","createdAt":"2026-01-21T09:10:59.699Z","icon":"https://example.com/icons/dog-walking.png","name":"Blood Test Laboratories","updatedAt":"2026-01-21T09:10:59.699Z"}],"message":"Service list fetched successfully","pagination":{"limit":10,"page":1,"total":3,"totalPages":1},"status":true,"statusCode":200},"headers":{"content-length":"738","content-type":"application/json; charset=utf-8"},"request":{},"status":200,"statusText":"OK"}
+[04:44:10.758] Server  LOG     ✓ Compiled in 240ms
+[04:44:19.894] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:44:22.429] Browser LOG     [{"__v":0,"_id":"69709f816629e9fd8335c073","createdAt":"2026-01-21T09:42:25.407Z","icon":"https://example.com/icons/dog-walking.png","name":"Xray & Scans","updatedAt":"2026-01-21T09:42:25.407Z"},{"__v":0,"_id":"69709f756629e9fd8335c071","createdAt":"2026-01-21T09:42:13.796Z","icon":"https://example.com/icons/dog-walking.png","name":"Ultrasound","updatedAt":"2026-01-21T09:42:13.796Z"},{"__v":0,"_id":"697098236629e9fd8335c06d","createdAt":"2026-01-21T09:10:59.699Z","icon":"https://example.com/icons/dog-walking.png","name":"Blood Test Laboratories","updatedAt":"2026-01-21T09:10:59.699Z"}]
+[04:44:44.467] Server  LOG     ✓ Compiled in 199ms
+[04:44:45.902] Browser ERROR   Each child in a list should have a unique "key" prop.%s%s See https://react.dev/link/warning-keys for more information. 
+
+Check the render method of `AddProviderScreen`. 
+[04:44:59.553] Server  LOG     ✓ Compiled in 248ms
+[04:45:04.573] Server  LOG     ✓ Compiled in 238ms
+[04:45:09.874] Server  LOG     ✓ Compiled in 341ms
+[04:45:15.155] Server  LOG     ✓ Compiled in 242ms
+[04:45:28.077] Server  LOG     ✓ Compiled in 380ms
+[04:45:49.053] Server  LOG     ✓ Compiled in 219ms
+[04:46:01.415] Server  LOG     ✓ Compiled in 488ms
+[04:46:07.795] Server  LOG     ✓ Compiled in 407ms
+[04:46:10.710] Server  LOG     ✓ Compiled in 424ms
+[04:46:13.268] Server  LOG     ✓ Compiled in 261ms
+[04:46:19.275] Server  LOG     ✓ Compiled in 187ms
+[04:46:23.269] Server  LOG     ✓ Compiled in 378ms
+[04:46:28.579] Server  LOG     ✓ Compiled in 260ms
+[04:46:49.814] Browser LOG     Pin my location clicked
+[04:49:31.271] Server  LOG     ✓ Compiled in 1826ms
+[04:49:37.700] Server  LOG     ✓ Compiled in 525ms
+[04:50:44.289] Server  LOG     ✓ Compiled in 225ms
+[04:50:47.718] Server  LOG     ✓ Compiled in 375ms
+[04:51:06.760] Server  LOG     ✓ Compiled in 262ms
+[04:51:10.126] Server  LOG     ✓ Compiled in 255ms
+[04:51:17.461] Server  LOG     ✓ Compiled in 301ms
+[04:51:41.029] Server  LOG     ✓ Compiled in 163ms
+[04:51:45.071] Server  LOG     ✓ Compiled in 296ms
+[04:51:59.108] Server  LOG     ✓ Compiled in 168ms
+[04:52:03.079] Server  LOG     ✓ Compiled in 316ms
+[04:52:17.844] Server  LOG     ✓ Compiled in 205ms
+[04:52:21.225] Server  LOG     ✓ Compiled in 368ms
+[04:52:46.111] Server  LOG     ✓ Compiled in 270ms
+[04:52:49.850] Server  LOG     ✓ Compiled in 380ms
+[04:53:10.251] Server  LOG     ✓ Compiled in 240ms
+[04:53:13.426] Server  LOG     ✓ Compiled in 321ms
+[04:54:49.469] Server  LOG     ✓ Compiled in 818ms
+[04:55:51.759] Server  LOG     ✓ Compiled in 231ms
+[04:55:53.999] Browser LOG     [{"__v":0,"_id":"69709f816629e9fd8335c073","createdAt":"2026-01-21T09:42:25.407Z","icon":"https://example.com/icons/dog-walking.png","name":"Xray & Scans","updatedAt":"2026-01-21T09:42:25.407Z"},{"__v":0,"_id":"69709f756629e9fd8335c071","createdAt":"2026-01-21T09:42:13.796Z","icon":"https://example.com/icons/dog-walking.png","name":"Ultrasound","updatedAt":"2026-01-21T09:42:13.796Z"},{"__v":0,"_id":"697098236629e9fd8335c06d","createdAt":"2026-01-21T09:10:59.699Z","icon":"https://example.com/icons/dog-walking.png","name":"Blood Test Laboratories","updatedAt":"2026-01-21T09:10:59.699Z"}]
+[04:56:19.586] Server  LOG     ✓ Compiled in 321ms
+[04:56:23.241] Server  LOG     ✓ Compiled in 237ms
+[04:57:12.864] Server  LOG     ✓ Compiled in 744ms
+[04:57:14.585] Server  LOG     ✓ Compiled in 212ms
+[04:57:16.874] Server  LOG     ✓ Compiled in 500ms
+[04:57:44.213] Server  LOG     ✓ Compiled in 369ms
+[04:57:46.856] Server  LOG     ✓ Compiled in 659ms
+[04:58:11.311] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:58:12.920] Browser LOG     [{"__v":0,"_id":"69709f816629e9fd8335c073","createdAt":"2026-01-21T09:42:25.407Z","icon":"https://example.com/icons/dog-walking.png","name":"Xray & Scans","updatedAt":"2026-01-21T09:42:25.407Z"},{"__v":0,"_id":"69709f756629e9fd8335c071","createdAt":"2026-01-21T09:42:13.796Z","icon":"https://example.com/icons/dog-walking.png","name":"Ultrasound","updatedAt":"2026-01-21T09:42:13.796Z"},{"__v":0,"_id":"697098236629e9fd8335c06d","createdAt":"2026-01-21T09:10:59.699Z","icon":"https://example.com/icons/dog-walking.png","name":"Blood Test Laboratories","updatedAt":"2026-01-21T09:10:59.699Z"}]
+[04:58:30.774] Server  LOG     ✓ Compiled in 350ms
+[04:58:35.598] Server  LOG     ✓ Compiled in 218ms
+[04:58:38.205] Server  LOG     ✓ Compiled in 285ms
+[04:58:43.702] Server  LOG     ✓ Compiled in 221ms
+[04:59:23.724] Server  LOG     ✓ Compiled in 850ms
+[04:59:28.207] Server  LOG     ✓ Compiled in 2.2s
+[04:59:51.751] Server  LOG     ✓ Compiled in 599ms
+[04:59:57.310] Server  LOG     ✓ Compiled in 461ms
+[05:00:20.375] Server  LOG     ✓ Compiled in 746ms
+[05:00:22.940] Server  LOG     ✓ Compiled in 671ms
+[05:00:59.503] Server  LOG     ✓ Compiled in 984ms
+[05:02:08.207] Browser LOG     Pin my location clicked
+[05:13:47.547] Browser LOG     Pin my location clicked
+[05:14:04.368] Browser LOG     Form submitted: {"address":"full address","areas":"","businessHours":{"Friday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Monday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Saturday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Sunday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Thursday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Tuesday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Wednesday":{"enabled":true,"endTime":"17:00","startTime":"09:00"}},"city":"city","confirmPassword":"1","country":"us","description":"test","email":"test@gmail.com","languagesSupported":"eng","mapLocation":{"lat":null,"lng":null},"name":"Test","password":"1","phone":"9874563214","postalCode":"123456","selectedCategories":[],"selectedServices":[],"servicePrices":{},"serviceType":"","treatmentPrices":{"69709f816629e9fd8335c073":"20"},"treatmentSupport":true,"treatmentType":"both","treatmentTypes":["69709f816629e9fd8335c073"],"urgencyOptions":["same-day","next-day","scheduled","emergency"],"urgencySupport":true,"verified":true,"website":""}
+[05:23:07.981] Server  LOG     ✓ Compiled in 7.1s
+[05:23:40.147] Server  LOG     ✓ Compiled in 242ms
+[05:24:05.957] Browser LOG     Form submitted: {"address":"full address","areas":"","businessHours":{"Friday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Monday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Saturday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Sunday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Thursday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Tuesday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Wednesday":{"enabled":true,"endTime":"17:00","startTime":"09:00"}},"city":"city","confirmPassword":"1","country":"us","description":"test","email":"test@gmail.com","languagesSupported":"eng","mapLocation":{"lat":null,"lng":null},"name":"Test","password":"1","phone":"9874563214","postalCode":"123456","selectedCategories":[],"selectedServices":[],"servicePrices":{},"serviceType":"","treatmentPrices":{"69709f816629e9fd8335c073":"20"},"treatmentSupport":true,"treatmentType":"both","treatmentTypes":["69709f816629e9fd8335c073"],"urgencyOptions":["same-day","next-day","scheduled","emergency"],"urgencySupport":true,"verified":true,"website":""}
+[05:24:35.289] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:24:38.272] Browser LOG     [{"__v":0,"_id":"69709f816629e9fd8335c073","createdAt":"2026-01-21T09:42:25.407Z","icon":"https://example.com/icons/dog-walking.png","name":"Xray & Scans","updatedAt":"2026-01-21T09:42:25.407Z"},{"__v":0,"_id":"69709f756629e9fd8335c071","createdAt":"2026-01-21T09:42:13.796Z","icon":"https://example.com/icons/dog-walking.png","name":"Ultrasound","updatedAt":"2026-01-21T09:42:13.796Z"},{"__v":0,"_id":"697098236629e9fd8335c06d","createdAt":"2026-01-21T09:10:59.699Z","icon":"https://example.com/icons/dog-walking.png","name":"Blood Test Laboratories","updatedAt":"2026-01-21T09:10:59.699Z"}]
+[05:26:18.374] Browser LOG     Form submitted: {"address":"Full Address","areas":"","businessHours":{"Friday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Monday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Saturday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Sunday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Thursday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Tuesday":{"enabled":true,"endTime":"17:00","startTime":"09:00"},"Wednesday":{"enabled":true,"endTime":"17:00","startTime":"09:00"}},"city":"City","confirmPassword":"1","country":"au","description":"Provider description","email":"contact@gmail.com","languagesSupported":"English, Hindi","mapLocation":{"lat":null,"lng":null},"name":"Provider Name","password":"1","phone":"987456321","postalCode":"123456","selectedCategories":[],"selectedServices":[],"servicePrices":{},"serviceType":"","treatmentPrices":{"69709f816629e9fd8335c073":"299"},"treatmentSupport":true,"treatmentType":"both","treatmentTypes":["69709f816629e9fd8335c073"],"urgencyOptions":["next-day","same-day","emergency","scheduled"],"urgencySupport":true,"verified":true,"website":""}
+[05:27:43.268] Server  LOG     ✓ Compiled in 235ms
+[05:27:52.968] Browser LOG     Form submitted: {"address":{"city":"City","country":"au","fullAddress":"Full Address","postalCode":"123456"},"countryCode":"+91","email":"contact@gmail.com","isActive":true,"isVerified":true,"languageSupport":["English","Hindi"],"location":{"lat":null,"lng":null},"mobileNumber":987456321,"name":"Provider Name","operatingHours":[{"day":"monday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"tuesday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"wednesday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"thursday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"friday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"saturday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"sunday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]}],"providerDescription":"Provider description","providerLogo":"Generated Item.png","providerVerificationStatus":false,"serviceType":[{"price":299,"serviceId":"69709f816629e9fd8335c073"}],"treatmentSupport":["IVF","IUI"],"urgencySupport":["Next Day","Same Day","Emergency","Scheduled"],"webSiteUrl":""}
+[05:49:08.290] Server  LOG     ✓ Compiled in 465ms
+[05:49:23.864] Browser LOG     Form submitted: {"address":{"city":"City","country":"au","fullAddress":"Full Address","postalCode":"123456"},"countryCode":"+91","email":"contact@gmail.com","isActive":true,"isVerified":true,"languageSupport":["English","Hindi"],"location":{"lat":null,"lng":null},"mobileNumber":987456321,"name":"Provider Name","operatingHours":[{"day":"monday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"tuesday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"wednesday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"thursday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"friday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"saturday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"sunday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]}],"providerDescription":"Provider description","providerLogo":"Generated Item.png","providerVerificationStatus":false,"serviceType":[{"price":299,"serviceId":"69709f816629e9fd8335c073"}],"treatmentSupport":["IVF","IUI"],"urgencySupport":["Next Day","Same Day","Emergency","Scheduled"],"webSiteUrl":""}
+[05:50:04.913] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:50:06.572] Browser LOG     [{"__v":0,"_id":"69709f816629e9fd8335c073","createdAt":"2026-01-21T09:42:25.407Z","icon":"https://example.com/icons/dog-walking.png","name":"Xray & Scans","updatedAt":"2026-01-21T09:42:25.407Z"},{"__v":0,"_id":"69709f756629e9fd8335c071","createdAt":"2026-01-21T09:42:13.796Z","icon":"https://example.com/icons/dog-walking.png","name":"Ultrasound","updatedAt":"2026-01-21T09:42:13.796Z"},{"__v":0,"_id":"697098236629e9fd8335c06d","createdAt":"2026-01-21T09:10:59.699Z","icon":"https://example.com/icons/dog-walking.png","name":"Blood Test Laboratories","updatedAt":"2026-01-21T09:10:59.699Z"}]
+[05:53:47.813] Server  LOG     ✓ Compiled in 1123ms
+[05:53:53.764] Browser LOG     [{"__v":0,"_id":"69709f816629e9fd8335c073","createdAt":"2026-01-21T09:42:25.407Z","icon":"https://example.com/icons/dog-walking.png","name":"Xray & Scans","updatedAt":"2026-01-21T09:42:25.407Z"},{"__v":0,"_id":"69709f756629e9fd8335c071","createdAt":"2026-01-21T09:42:13.796Z","icon":"https://example.com/icons/dog-walking.png","name":"Ultrasound","updatedAt":"2026-01-21T09:42:13.796Z"},{"__v":0,"_id":"697098236629e9fd8335c06d","createdAt":"2026-01-21T09:10:59.699Z","icon":"https://example.com/icons/dog-walking.png","name":"Blood Test Laboratories","updatedAt":"2026-01-21T09:10:59.699Z"}]
+[05:56:18.767] Server  LOG     ✓ Compiled in 231ms
+[05:56:23.429] Server  LOG     ✓ Compiled in 248ms
+[05:56:25.418] Server  LOG     ✓ Compiled in 292ms
+[05:57:10.439] Server  LOG     ✓ Compiled in 240ms
+[05:58:01.788] Server  LOG     ✓ Compiled in 275ms
+[05:58:02.760] Browser ERROR   uncaughtError: ReferenceError: handleLogoUpload is not defined
+[05:58:05.137] Server  LOG     ✓ Compiled in 571ms
+[05:58:05.609] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[05:58:09.032] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[05:58:11.519] Browser LOG     [{"__v":0,"_id":"69709f816629e9fd8335c073","createdAt":"2026-01-21T09:42:25.407Z","icon":"https://example.com/icons/dog-walking.png","name":"Xray & Scans","updatedAt":"2026-01-21T09:42:25.407Z"},{"__v":0,"_id":"69709f756629e9fd8335c071","createdAt":"2026-01-21T09:42:13.796Z","icon":"https://example.com/icons/dog-walking.png","name":"Ultrasound","updatedAt":"2026-01-21T09:42:13.796Z"},{"__v":0,"_id":"697098236629e9fd8335c06d","createdAt":"2026-01-21T09:10:59.699Z","icon":"https://example.com/icons/dog-walking.png","name":"Blood Test Laboratories","updatedAt":"2026-01-21T09:10:59.699Z"}]
+[05:59:27.086] Server  LOG     ✓ Compiled in 3.5s
+[06:00:10.024] Server  LOG     ✓ Compiled in 596ms
+[06:00:10.756] Browser ERROR   ./sahil/fertigo_web/app/api/api.tsx:12:1
+Parsing ecmascript source code failed
+  10 | export const 
+  11 |
+> 12 | export const SERVICES = '/service';
+     | ^^^^^^
+
+Expected ident
+
+Import traces:
+  Client Component Browser:
+    ./sahil/fertigo_web/app/api/api.tsx [Client Component Browser]
+    ./sahil/fertigo_web/app/api/ApiHelper/uploadHelper.tsx [Client Component Browser]
+    ./sahil/fertigo_web/app/main/AddProvider/page.tsx [Client Component Browser]
+    ./sahil/fertigo_web/app/main/AddProvider/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./sahil/fertigo_web/app/api/api.tsx [Client Component SSR]
+    ./sahil/fertigo_web/app/api/ApiHelper/uploadHelper.tsx [Client Component SSR]
+    ./sahil/fertigo_web/app/main/AddProvider/page.tsx [Client Component SSR]
+    ./sahil/fertigo_web/app/main/AddProvider/page.tsx [Server Component]
+[06:00:14.682] Server  LOG     ✓ Compiled in 479ms
+[06:00:15.648] Server  LOG     ✓ Compiled in 150ms
+[06:00:26.385] Server  LOG     ✓ Compiled in 229ms
+[06:00:28.798] Server  LOG     ✓ Compiled in 428ms
+[06:01:57.194] Server  LOG     ✓ Compiled in 322ms
+[06:03:02.831] Browser LOG     {"config":{"adapter":["xhr","http","fetch"],"allowAbsoluteUrls":true,"baseURL":"http://85.31.234.205:5200","data":{},"env":{},"headers":{"Accept":"application/json, text/plain, */*","Content-Type":"multipart/form-data"},"maxBodyLength":-1,"maxContentLength":-1,"method":"post","timeout":0,"transformRequest":[null],"transformResponse":[null],"transitional":{"clarifyTimeoutError":false,"forcedJSONParsing":true,"silentJSONParsing":true},"url":"/upload","xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN"},"data":{"data":{"mimeType":"image/png","originalName":"Generated Item.png","size":1755517,"url":"/uploads/1769084810286-16718727.png"},"message":"File uploaded successfully","status":true,"statusCode":201},"headers":{"content-length":"198","content-type":"application/json; charset=utf-8"},"request":{},"status":201,"statusText":"Created"}
+[06:03:06.442] Browser LOG     Form submitted: {"address":{"city":"ef","country":"us","fullAddress":"er","postalCode":"123"},"countryCode":"+91","email":"dv@gmail.com","isActive":true,"isVerified":true,"languageSupport":["ef"],"location":{"lat":null,"lng":null},"mobileNumber":3,"name":"t","operatingHours":[{"day":"monday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"tuesday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"wednesday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"thursday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"friday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"saturday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"sunday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]}],"providerDescription":"ererg","providerLogo":"/uploads/1769084810286-16718727.png","providerVerificationStatus":false,"serviceType":[],"treatmentSupport":[],"urgencySupport":[],"webSiteUrl":""}
+[06:03:11.213] Browser LOG     Form submitted: {"address":{"city":"ef","country":"us","fullAddress":"er","postalCode":"123"},"countryCode":"+91","email":"dv@gmail.com","isActive":true,"isVerified":true,"languageSupport":["ef"],"location":{"lat":null,"lng":null},"mobileNumber":3,"name":"t","operatingHours":[{"day":"monday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"tuesday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"wednesday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"thursday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"friday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"saturday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"sunday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]}],"providerDescription":"ererg","providerLogo":"/uploads/1769084810286-16718727.png","providerVerificationStatus":false,"serviceType":[],"treatmentSupport":[],"urgencySupport":[],"webSiteUrl":""}
+[06:03:12.081] Browser LOG     Form submitted: {"address":{"city":"ef","country":"us","fullAddress":"er","postalCode":"123"},"countryCode":"+91","email":"dv@gmail.com","isActive":true,"isVerified":true,"languageSupport":["ef"],"location":{"lat":null,"lng":null},"mobileNumber":3,"name":"t","operatingHours":[{"day":"monday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"tuesday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"wednesday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"thursday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"friday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"saturday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"sunday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]}],"providerDescription":"ererg","providerLogo":"/uploads/1769084810286-16718727.png","providerVerificationStatus":false,"serviceType":[],"treatmentSupport":[],"urgencySupport":[],"webSiteUrl":""}
+[06:03:13.196] Browser LOG     Form submitted: {"address":{"city":"ef","country":"us","fullAddress":"er","postalCode":"123"},"countryCode":"+91","email":"dv@gmail.com","isActive":true,"isVerified":true,"languageSupport":["ef"],"location":{"lat":null,"lng":null},"mobileNumber":3,"name":"t","operatingHours":[{"day":"monday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"tuesday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"wednesday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"thursday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"friday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"saturday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]},{"day":"sunday","isAvailable":true,"slots":[{"endTime":"17:00","startTime":"09:00"}]}],"providerDescription":"ererg","providerLogo":"/uploads/1769084810286-16718727.png","providerVerificationStatus":false,"serviceType":[],"treatmentSupport":[],"urgencySupport":[],"webSiteUrl":""}
+[06:07:49.849] Server  LOG     ✓ Compiled in 2.1s
+[06:08:05.709] Server  LOG     ✓ Compiled in 792ms
+[06:08:28.580] Server  LOG     ✓ Compiled in 599ms
+[06:08:59.887] Server  LOG     ✓ Compiled in 785ms
+[06:13:18.031] Server  LOG     ✓ Compiled in 845ms
+[06:13:38.504] Server  LOG     ✓ Compiled in 878ms
+[06:13:57.612] Server  LOG     ✓ Compiled in 714ms
+[06:14:18.357] Server  LOG     ✓ Compiled in 499ms
+[06:15:35.338] Server  LOG     ✓ Compiled in 480ms
+[06:15:38.732] Server  LOG     ✓ Compiled in 536ms
+[06:18:04.224] Server  LOG     ✓ Compiled in 636ms
+[06:18:23.628] Server  LOG     ✓ Compiled in 881ms
+[06:19:35.623] Server  LOG     ✓ Compiled in 457ms
+[06:19:40.456] Server  LOG     ✓ Compiled in 403ms
+[06:19:44.539] Server  LOG     ✓ Compiled in 330ms
+[06:19:53.497] Server  LOG     ✓ Finished filesystem cache database compaction in 10.5s
+[06:20:28.403] Server  LOG     ✓ Compiled in 473ms
+[06:20:50.029] Server  LOG     ✓ Compiled in 296ms
+[06:21:15.128] Server  LOG     ✓ Compiled in 260ms
+[06:21:21.552] Server  LOG     ✓ Compiled in 259ms
+[06:21:23.360] Server  LOG     ✓ Compiled in 445ms
+[06:21:26.404] Server  LOG     ✓ Compiled in 773ms
+[06:21:29.624] Server  LOG     ✓ Compiled in 221ms
+[06:21:31.521] Server  LOG     ✓ Compiled in 185ms
+[06:21:34.610] Server  LOG     ✓ Compiled in 173ms
+[06:21:40.101] Server  LOG     ✓ Compiled in 462ms
+[06:21:51.730] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:21:53.366] Browser LOG     [{"__v":0,"_id":"69709f816629e9fd8335c073","createdAt":"2026-01-21T09:42:25.407Z","icon":"https://example.com/icons/dog-walking.png","name":"Xray & Scans","updatedAt":"2026-01-21T09:42:25.407Z"},{"__v":0,"_id":"69709f756629e9fd8335c071","createdAt":"2026-01-21T09:42:13.796Z","icon":"https://example.com/icons/dog-walking.png","name":"Ultrasound","updatedAt":"2026-01-21T09:42:13.796Z"},{"__v":0,"_id":"697098236629e9fd8335c06d","createdAt":"2026-01-21T09:10:59.699Z","icon":"https://example.com/icons/dog-walking.png","name":"Blood Test Laboratories","updatedAt":"2026-01-21T09:10:59.699Z"}]
+[06:22:21.512] Server  LOG     ✓ Compiled in 282ms
+[06:24:40.833] Server  LOG     ✓ Compiled in 466ms
+[06:24:52.854] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:24:54.430] Browser LOG     [{"__v":0,"_id":"69709f816629e9fd8335c073","createdAt":"2026-01-21T09:42:25.407Z","icon":"https://example.com/icons/dog-walking.png","name":"Xray & Scans","updatedAt":"2026-01-21T09:42:25.407Z"},{"__v":0,"_id":"69709f756629e9fd8335c071","createdAt":"2026-01-21T09:42:13.796Z","icon":"https://example.com/icons/dog-walking.png","name":"Ultrasound","updatedAt":"2026-01-21T09:42:13.796Z"},{"__v":0,"_id":"697098236629e9fd8335c06d","createdAt":"2026-01-21T09:10:59.699Z","icon":"https://example.com/icons/dog-walking.png","name":"Blood Test Laboratories","updatedAt":"2026-01-21T09:10:59.699Z"}]
+[06:27:14.645] Server  LOG     ✓ Compiled in 268ms
+[06:27:17.143] Server  LOG     ✓ Compiled in 390ms
+[06:27:20.518] Server  LOG     ✓ Compiled in 1295ms
+[06:28:45.656] Server  LOG     ✓ Compiled in 389ms
+[06:29:08.676] Server  LOG     ✓ Compiled in 250ms
+[06:29:14.517] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:29:16.127] Browser LOG     [{"__v":0,"_id":"69709f816629e9fd8335c073","createdAt":"2026-01-21T09:42:25.407Z","icon":"https://example.com/icons/dog-walking.png","name":"Xray & Scans","updatedAt":"2026-01-21T09:42:25.407Z"},{"__v":0,"_id":"69709f756629e9fd8335c071","createdAt":"2026-01-21T09:42:13.796Z","icon":"https://example.com/icons/dog-walking.png","name":"Ultrasound","updatedAt":"2026-01-21T09:42:13.796Z"},{"__v":0,"_id":"697098236629e9fd8335c06d","createdAt":"2026-01-21T09:10:59.699Z","icon":"https://example.com/icons/dog-walking.png","name":"Blood Test Laboratories","updatedAt":"2026-01-21T09:10:59.699Z"}]
+[06:31:23.917] Server  LOG     ✓ Compiled in 474ms
+[06:31:45.325] Browser LOG     [{"__v":0,"_id":"69709f816629e9fd8335c073","createdAt":"2026-01-21T09:42:25.407Z","icon":"https://example.com/icons/dog-walking.png","name":"Xray & Scans","updatedAt":"2026-01-21T09:42:25.407Z"},{"__v":0,"_id":"69709f756629e9fd8335c071","createdAt":"2026-01-21T09:42:13.796Z","icon":"https://example.com/icons/dog-walking.png","name":"Ultrasound","updatedAt":"2026-01-21T09:42:13.796Z"},{"__v":0,"_id":"697098236629e9fd8335c06d","createdAt":"2026-01-21T09:10:59.699Z","icon":"https://example.com/icons/dog-walking.png","name":"Blood Test Laboratories","updatedAt":"2026-01-21T09:10:59.699Z"}]
+[06:31:46.182] Browser LOG     [{"__v":0,"_id":"69709f816629e9fd8335c073","createdAt":"2026-01-21T09:42:25.407Z","icon":"https://example.com/icons/dog-walking.png","name":"Xray & Scans","updatedAt":"2026-01-21T09:42:25.407Z"},{"__v":0,"_id":"69709f756629e9fd8335c071","createdAt":"2026-01-21T09:42:13.796Z","icon":"https://example.com/icons/dog-walking.png","name":"Ultrasound","updatedAt":"2026-01-21T09:42:13.796Z"},{"__v":0,"_id":"697098236629e9fd8335c06d","createdAt":"2026-01-21T09:10:59.699Z","icon":"https://example.com/icons/dog-walking.png","name":"Blood Test Laboratories","updatedAt":"2026-01-21T09:10:59.699Z"}]
+[06:31:50.823] Browser LOG     [{"__v":0,"_id":"69709f816629e9fd8335c073","createdAt":"2026-01-21T09:42:25.407Z","icon":"https://example.com/icons/dog-walking.png","name":"Xray & Scans","updatedAt":"2026-01-21T09:42:25.407Z"},{"__v":0,"_id":"69709f756629e9fd8335c071","createdAt":"2026-01-21T09:42:13.796Z","icon":"https://example.com/icons/dog-walking.png","name":"Ultrasound","updatedAt":"2026-01-21T09:42:13.796Z"},{"__v":0,"_id":"697098236629e9fd8335c06d","createdAt":"2026-01-21T09:10:59.699Z","icon":"https://example.com/icons/dog-walking.png","name":"Blood Test Laboratories","updatedAt":"2026-01-21T09:10:59.699Z"}]
+[06:31:51.707] Browser LOG     [{"__v":0,"_id":"69709f816629e9fd8335c073","createdAt":"2026-01-21T09:42:25.407Z","icon":"https://example.com/icons/dog-walking.png","name":"Xray & Scans","updatedAt":"2026-01-21T09:42:25.407Z"},{"__v":0,"_id":"69709f756629e9fd8335c071","createdAt":"2026-01-21T09:42:13.796Z","icon":"https://example.com/icons/dog-walking.png","name":"Ultrasound","updatedAt":"2026-01-21T09:42:13.796Z"},{"__v":0,"_id":"697098236629e9fd8335c06d","createdAt":"2026-01-21T09:10:59.699Z","icon":"https://example.com/icons/dog-walking.png","name":"Blood Test Laboratories","updatedAt":"2026-01-21T09:10:59.699Z"}]
+[06:32:54.769] Browser LOG     [{"__v":0,"_id":"69709f816629e9fd8335c073","createdAt":"2026-01-21T09:42:25.407Z","icon":"https://example.com/icons/dog-walking.png","name":"Xray & Scans","updatedAt":"2026-01-21T09:42:25.407Z"},{"__v":0,"_id":"69709f756629e9fd8335c071","createdAt":"2026-01-21T09:42:13.796Z","icon":"https://example.com/icons/dog-walking.png","name":"Ultrasound","updatedAt":"2026-01-21T09:42:13.796Z"},{"__v":0,"_id":"697098236629e9fd8335c06d","createdAt":"2026-01-21T09:10:59.699Z","icon":"https://example.com/icons/dog-walking.png","name":"Blood Test Laboratories","updatedAt":"2026-01-21T09:10:59.699Z"}]
+[06:32:55.254] Browser LOG     [{"__v":0,"_id":"69709f816629e9fd8335c073","createdAt":"2026-01-21T09:42:25.407Z","icon":"https://example.com/icons/dog-walking.png","name":"Xray & Scans","updatedAt":"2026-01-21T09:42:25.407Z"},{"__v":0,"_id":"69709f756629e9fd8335c071","createdAt":"2026-01-21T09:42:13.796Z","icon":"https://example.com/icons/dog-walking.png","name":"Ultrasound","updatedAt":"2026-01-21T09:42:13.796Z"},{"__v":0,"_id":"697098236629e9fd8335c06d","createdAt":"2026-01-21T09:10:59.699Z","icon":"https://example.com/icons/dog-walking.png","name":"Blood Test Laboratories","updatedAt":"2026-01-21T09:10:59.699Z"}]
+[06:32:58.775] Browser LOG     [{"__v":0,"_id":"69709f816629e9fd8335c073","createdAt":"2026-01-21T09:42:25.407Z","icon":"https://example.com/icons/dog-walking.png","name":"Xray & Scans","updatedAt":"2026-01-21T09:42:25.407Z"},{"__v":0,"_id":"69709f756629e9fd8335c071","createdAt":"2026-01-21T09:42:13.796Z","icon":"https://example.com/icons/dog-walking.png","name":"Ultrasound","updatedAt":"2026-01-21T09:42:13.796Z"},{"__v":0,"_id":"697098236629e9fd8335c06d","createdAt":"2026-01-21T09:10:59.699Z","icon":"https://example.com/icons/dog-walking.png","name":"Blood Test Laboratories","updatedAt":"2026-01-21T09:10:59.699Z"}]
+[06:32:59.597] Browser LOG     [{"__v":0,"_id":"69709f816629e9fd8335c073","createdAt":"2026-01-21T09:42:25.407Z","icon":"https://example.com/icons/dog-walking.png","name":"Xray & Scans","updatedAt":"2026-01-21T09:42:25.407Z"},{"__v":0,"_id":"69709f756629e9fd8335c071","createdAt":"2026-01-21T09:42:13.796Z","icon":"https://example.com/icons/dog-walking.png","name":"Ultrasound","updatedAt":"2026-01-21T09:42:13.796Z"},{"__v":0,"_id":"697098236629e9fd8335c06d","createdAt":"2026-01-21T09:10:59.699Z","icon":"https://example.com/icons/dog-walking.png","name":"Blood Test Laboratories","updatedAt":"2026-01-21T09:10:59.699Z"}]
+[06:33:33.214] Server  LOG     ✓ Compiled in 724ms
+[06:33:34.423] Browser ERROR   uncaughtError: ReferenceError: router is not defined
+[06:34:07.110] Server  LOG     ✓ Compiled in 492ms
+[06:34:12.836] Server  LOG     ✓ Compiled in 359ms
+[06:34:13.759] Browser ERROR   uncaughtError: ReferenceError: useRouter is not defined
+[06:34:27.247] Server  LOG     ✓ Compiled in 7.2s
+[06:34:27.849] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[06:34:28.926] Server  ERROR   ⨯ Error: NextRouter was not mounted. https://nextjs.org/docs/messages/next-router-not-mounted
+[06:34:29.007] Browser ERROR   uncaughtError: Error: NextRouter was not mounted. https://nextjs.org/docs/messages/next-router-not-mounted
+[06:34:29.519] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:34:29.973] Browser ERROR   uncaughtError: Error: NextRouter was not mounted. https://nextjs.org/docs/messages/next-router-not-mounted
+[06:36:46.909] Server  LOG     ✓ Compiled in 936ms
+[06:36:46.964] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[06:36:48.352] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[06:36:50.290] Browser LOG     [{"__v":0,"_id":"69709f816629e9fd8335c073","createdAt":"2026-01-21T09:42:25.407Z","icon":"https://example.com/icons/dog-walking.png","name":"Xray & Scans","updatedAt":"2026-01-21T09:42:25.407Z"},{"__v":0,"_id":"69709f756629e9fd8335c071","createdAt":"2026-01-21T09:42:13.796Z","icon":"https://example.com/icons/dog-walking.png","name":"Ultrasound","updatedAt":"2026-01-21T09:42:13.796Z"},{"__v":0,"_id":"697098236629e9fd8335c06d","createdAt":"2026-01-21T09:10:59.699Z","icon":"https://example.com/icons/dog-walking.png","name":"Blood Test Laboratories","updatedAt":"2026-01-21T09:10:59.699Z"}]
+[06:37:02.279] Server  LOG     ✓ Finished filesystem cache database compaction in 10.7s
+[06:37:12.560] Browser LOG     [{"__v":0,"_id":"69709f816629e9fd8335c073","createdAt":"2026-01-21T09:42:25.407Z","icon":"https://example.com/icons/dog-walking.png","name":"Xray & Scans","updatedAt":"2026-01-21T09:42:25.407Z"},{"__v":0,"_id":"69709f756629e9fd8335c071","createdAt":"2026-01-21T09:42:13.796Z","icon":"https://example.com/icons/dog-walking.png","name":"Ultrasound","updatedAt":"2026-01-21T09:42:13.796Z"},{"__v":0,"_id":"697098236629e9fd8335c06d","createdAt":"2026-01-21T09:10:59.699Z","icon":"https://example.com/icons/dog-walking.png","name":"Blood Test Laboratories","updatedAt":"2026-01-21T09:10:59.699Z"}]
+[06:37:13.397] Browser LOG     [{"__v":0,"_id":"69709f816629e9fd8335c073","createdAt":"2026-01-21T09:42:25.407Z","icon":"https://example.com/icons/dog-walking.png","name":"Xray & Scans","updatedAt":"2026-01-21T09:42:25.407Z"},{"__v":0,"_id":"69709f756629e9fd8335c071","createdAt":"2026-01-21T09:42:13.796Z","icon":"https://example.com/icons/dog-walking.png","name":"Ultrasound","updatedAt":"2026-01-21T09:42:13.796Z"},{"__v":0,"_id":"697098236629e9fd8335c06d","createdAt":"2026-01-21T09:10:59.699Z","icon":"https://example.com/icons/dog-walking.png","name":"Blood Test Laboratories","updatedAt":"2026-01-21T09:10:59.699Z"}]
+[06:38:09.207] Server  LOG     ✓ Compiled in 218ms
+[06:38:11.776] Server  LOG     ✓ Compiled in 221ms
+[06:38:15.093] Server  LOG     ✓ Compiled in 502ms
+[06:38:23.768] Server  LOG     ✓ Compiled in 620ms
+[06:38:27.514] Server  LOG     ✓ Compiled in 388ms
+[06:38:31.787] Server  LOG     ✓ Compiled in 405ms
+[06:38:36.798] Server  LOG     ✓ Compiled in 444ms
+[06:38:42.153] Server  LOG     ✓ Finished filesystem cache database compaction in 15.7s
+[06:38:42.549] Server  LOG     ✓ Finished writing to filesystem cache in 13.0s
+[06:38:47.937] Server  LOG     ✓ Compiled in 396ms
+[06:38:53.433] Server  LOG     ✓ Compiled in 245ms
+[06:41:21.446] Server  LOG     ✓ Compiled in 208ms
+[06:41:23.533] Server  LOG     ✓ Compiled in 882ms
+[06:41:33.508] Server  LOG     ✓ Compiled in 203ms
+[06:41:45.920] Server  LOG     ✓ Compiled in 257ms
+[06:41:51.116] Server  LOG     ✓ Compiled in 274ms

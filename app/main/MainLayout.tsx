@@ -150,7 +150,7 @@ export default function MainLayout({ children }: { children: React.ReactNode }) 
   const router = useRouter();
 
   return (
-    <div className="min-h-screen bg-gray-50 flex">
+    <div className="h-screen bg-gray-50 flex overflow-hidden">
 
       {/* Sidebar */}
       <motion.aside
