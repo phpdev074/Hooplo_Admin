@@ -133,7 +133,7 @@ const AdminLoginScreen = () => {
                     id="email"
                     value={email}
                     onChange={(e) => setEmail(e.target.value)}
-                    className={`w-full pl-12 pr-4 py-4 border-2 rounded-xl font-medium transition-all focus:outline-none focus:ring-4 ${
+                    className={`w-full pl-12 pr-4 py-4 text-black border-2 rounded-xl font-medium transition-all focus:outline-none focus:ring-4 ${
                       errors.email
                         ? 'border-red-300 focus:border-red-500 focus:ring-red-100'
                         : 'border-gray-200 focus:border-pink-500 focus:ring-pink-100'
@@ -160,7 +160,7 @@ const AdminLoginScreen = () => {
                     id="password"
                     value={password}
                     onChange={(e) => setPassword(e.target.value)}
-                    className={`w-full pl-12 pr-12 py-4 border-2 rounded-xl font-medium transition-all focus:outline-none focus:ring-4 ${
+                    className={`w-full pl-12 pr-12 py-4 border-2 text-black rounded-xl font-medium transition-all focus:outline-none focus:ring-4 ${
                       errors.password
                         ? 'border-red-300 focus:border-red-500 focus:ring-red-100'
                         : 'border-gray-200 focus:border-pink-500 focus:ring-pink-100'
