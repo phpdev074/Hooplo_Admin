@@ -11,7 +11,7 @@ node_modules/
 dist/
 build/
 out/
-
+.next/
 # IDE / editor files
 .vscode/
 .idea/
