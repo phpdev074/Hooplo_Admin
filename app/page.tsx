@@ -60,7 +60,10 @@ const AdminLoginScreen = () => {
   };
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-pink-50 via-white to-purple-50 flex items-center justify-center p-4">
+    // <div className="min-h-screen bg-gradient-to-br from-pink-50 via-white to-purple-50 flex items-center justify-center p-4">
+      
+    <div className="min-h-screen bg-black flex items-center justify-center p-4">
+
       <div className="w-full max-w-6xl grid lg:grid-cols-2 gap-8 items-center">
         {/* Left Side - Branding */}
         <motion.div
@@ -71,17 +74,18 @@ const AdminLoginScreen = () => {
         >
           <div className="mb-8">
             <div className="flex items-center gap-3 mb-6">
-              <div className="w-24 h-24 bg-gradient-to-br from-pink-500 to-pink-600 rounded-2xl flex items-center justify-center shadow-lg">
-                <span className="text-3xl font-bold text-white">F</span>
+              <div className="w-24 h-24 bg-black rounded-2xl flex items-center justify-center shadow-lg">
+                {/* <span className="text-3xl font-bold text-white">F</span> */}
+                    <img src={'/mainlogo.svg'} alt='mainlogo'/>
               </div>
               <div>
-                <h1 className="text-4xl font-bold text-gray-900">FertiGo</h1>
-                <p className="text-sm font-semibold text-gray-600">Admin Portal</p>
+                {/* <h1 className="text-4xl font-bold text-gray-900">FertiGo <img src={'/mainTitle'} alt='maintitle'/></h1> */}
+                <p className="text-3xl font-semibold text-white">Admin Portal</p>
               </div>
             </div>
           </div>
 
-          <h2 className="text-3xl font-bold text-gray-900 mb-4">
+          <h2 className="text-3xl font-bold text-white mb-4">
             Manage Your Platform
           </h2>
           <p className="text-lg text-gray-600 font-medium mb-8 leading-relaxed">
@@ -94,7 +98,7 @@ const AdminLoginScreen = () => {
                 <Shield className="w-6 h-6 text-pink-600" />
               </div>
               <div>
-                <h3 className="font-bold text-gray-900">Secure Access</h3>
+                <h3 className="font-bold text-white">Secure Access</h3>
                 <p className="text-sm text-gray-600 font-medium">Protected by enterprise-grade security</p>
               </div>
             </div>
@@ -107,7 +111,7 @@ const AdminLoginScreen = () => {
                 </svg>
               </div>
               <div>
-                <h3 className="font-bold text-gray-900">Real-time Analytics</h3>
+                <h3 className="font-bold text-white">Real-time Analytics</h3>
                 <p className="text-sm text-gray-600 font-medium">Monitor platform performance instantly</p>
               </div>
             </div>
@@ -124,12 +128,17 @@ const AdminLoginScreen = () => {
           <div className="bg-white rounded-3xl shadow-2xl p-8 md:p-12">
             {/* Mobile Logo */}
             <div className="lg:hidden flex items-center gap-3 mb-8">
-              <div className="w-12 h-12 bg-gradient-to-br from-pink-500 to-pink-600 rounded-xl flex items-center justify-center">
-                <span className="text-2xl font-bold text-white">F</span>
+              <div className="w-12 h-12 bg-black rounded-xl flex items-center justify-center">
+                {/* <span className="text-2xl font-bold text-white">F</span> */}
+                          <img src={'/mainlogo.svg'} alt='mainlogo'/>
+                
               </div>
               <div>
-                <h1 className="text-2xl font-bold text-gray-900">FertiGo</h1>
-                <p className="text-xs font-semibold text-gray-600">Admin Portal</p>
+                {/* <h1 className="text-2xl font-bold text-gray-900">FertiGo</h1> */}
+                 {/* <img className='bg-black w-32 h-auto p-1'
+                 src={'/mainTitle.svg'} alt='maintitle'/> */}
+                 <p>Hooplo</p>
+                <p className="text-xs font-semibold !text-white">Admin Portal</p>
               </div>
             </div>
 
@@ -209,7 +218,7 @@ const AdminLoginScreen = () => {
                   />
                   <span className="text-sm font-semibold text-gray-700">Remember me</span>
                 </label>
-                <a href="#" className="text-sm font-bold text-pink-600 hover:text-pink-700 transition-colors">
+                <a href="#" className="text-sm font-bold text-black transition-colors">
                   Forgot password?
                 </a>
               </div>
@@ -217,7 +226,7 @@ const AdminLoginScreen = () => {
               {/* Submit Button */}
               <button
                 type="submit"
-                className="w-full bg-gradient-to-r from-pink-500 to-pink-600 text-white font-bold py-4 rounded-xl shadow-lg hover:shadow-xl transition-all flex items-center justify-center gap-3 group"
+                className="w-full bg-black text-white font-bold py-4 rounded-xl shadow-lg hover:shadow-xl transition-all flex items-center justify-center gap-3 group"
               >
                 <span>Sign In</span>
 
@@ -231,7 +240,7 @@ const AdminLoginScreen = () => {
                 <div className="w-full border-t border-gray-200"></div>
               </div>
               <div className="relative flex justify-center text-sm">
-                <span className="px-4 bg-white text-gray-500 font-semibold">Need help?</span>
+                <span className="px-4  text-black font-semibold">Need help?</span>
               </div>
             </div>
 
@@ -239,7 +248,7 @@ const AdminLoginScreen = () => {
             <div className="text-center">
               <p className="text-sm text-gray-600 font-medium">
                 Contact support at{' '}
-                <a href="mailto:support@fertigo.com" className="font-bold text-pink-600 hover:text-pink-700 transition-colors">
+                <a href="mailto:support@fertigo.com" className="font-bold text-black transition-colors">
                   support@fertigo.com
                 </a>
               </p>
@@ -247,7 +256,7 @@ const AdminLoginScreen = () => {
           </div>
 
           {/* Footer */}
-          <p className="text-center text-sm text-gray-500 font-medium mt-6">
+          <p className="text-center text-sm text-white font-medium mt-6">
             © 2024 FertiGo. All rights reserved.
           </p>
         </motion.div>

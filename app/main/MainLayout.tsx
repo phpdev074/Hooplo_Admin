@@ -29,7 +29,7 @@
 //       <motion.aside
 //         initial={{ x: -300 }}
 //         animate={{ x: sidebarOpen ? 0 : -300 }}
-//         className="fixed lg:static inset-y-0 left-0 z-50 w-64 bg-white border-r"
+//         className="fixed lg:static inset-y-0 left-0 z-50 w-64 bg-black border-r"
 //       >
 //         <div className="h-16 flex items-center justify-between px-6 border-b">
 //           <div className="flex items-center gap-3">
@@ -78,7 +78,7 @@
 //       <div className="flex-1 flex flex-col min-w-0">
 
 //         {/* HEADER */}
-//         <header className="h-16 bg-white border-b flex items-center justify-between px-8 sticky top-0 z-30">
+//         <header className="h-16 bg-black border-b flex items-center justify-between px-8 sticky top-0 z-30">
 //           <button
 //             onClick={() => setSidebarOpen(true)}
 //             className="lg:hidden"
@@ -137,9 +137,9 @@ const userTypeData = [
 
 const navigationItems = [
   { id: 'dashboard', icon: Home, label: 'Dashboard', path: '/main' },
-  { id: 'patients-management', icon: Users, label: 'Patients', path: '/main/User' },
-  { id: 'provider-management', icon: Building2, label: 'Provider', path: '/main/Provider' },
-  { id: 'booking-history', icon: Calendar, label: 'Booking History', path: '/main/Booking' },
+  { id: 'patients-management', icon: Users, label: 'Users', path: '/main/User' },
+  // { id: 'provider-management', icon: Building2, label: 'Provider', path: '/main/Provider' },
+  // { id: 'booking-history', icon: Calendar, label: 'Booking History', path: '/main/Booking' },
   { id: 'contact-us', icon: Mail, label: 'Contact Us', path: '/main/ContactUs' },
   { id: 'content-management', icon: FileCode, label: 'Content', path: '/main/Content' },
   { id: 'setting', icon: Settings, label: 'Setting', path: '/main/Settings' },
@@ -150,23 +150,29 @@ export default function MainLayout({ children }: { children: React.ReactNode }) 
   const router = useRouter();
 
   return (
-    <div className="h-screen bg-gray-50 flex overflow-hidden">
+    <div className="h-screen bg-gray-100 flex overflow-hidden">
 
       {/* Sidebar */}
       <motion.aside
         initial={{ x: -300 }}
         animate={{ x: sidebarOpen ? 0 : -300 }}
-        className="fixed lg:static inset-y-0 left-0 z-50 w-64 bg-white border-r border-gray-200 lg:translate-x-0"
+        className="fixed lg:static inset-y-0 left-0 z-50 w-64 bg-black border-r border-gray-200 lg:translate-x-0"
       >
         {/* Logo */}
         <div className="h-16 flex items-center justify-between px-6 border-b border-gray-200">
           <div className="flex items-center gap-3">
-            <div className="w-10 h-10 bg-gradient-to-br from-pink-500 to-pink-600 rounded-xl flex items-center justify-center">
-              <span className="text-xl font-bold text-white">F</span>
+            <div className="w-10 h-10 bg-black rounded-xl flex items-center justify-center">
+              {/* <span className="text-xl font-bold text-white">F</span> */}
+                        <img src={'/mainlogo.svg'} alt='mainlogo'/>
+           
             </div>
+     
             <div>
-              <h1 className="font-bold text-gray-900">FertiGo</h1>
-              <p className="text-xs font-semibold text-gray-500">Admin Panel</p>
+              {/* <h1 className="font-bold text-gray-900">FertiGo */}
+                 {/* <img className='bg-black w-32 h-auto p-1' src={'/mainTitle.svg'} alt='maintitle'/> */}
+                 <p className="text-2xl font-bold py-2">Hooplo</p>
+                 {/* </h1> */}
+              <p className="text-xs font-semibold text-gray-500 mb-2">Admin Panel</p>
             </div>
           </div>
           <button
@@ -185,7 +191,7 @@ export default function MainLayout({ children }: { children: React.ReactNode }) 
               <button
                 key={item.id}
                 onClick={() => router.push(item.path)}
-                className="w-full flex items-center gap-3 px-4 py-3 rounded-xl font-semibold transition-all text-gray-600 hover:bg-gray-100"
+                className="w-full flex items-center gap-3 px-4 py-3 rounded-xl font-semibold transition-all text-white hover:bg-gray-100 hover:text-black"
               >
                 <Icon className="w-5 h-5" />
                 <span>{item.label}</span>
@@ -214,7 +220,7 @@ export default function MainLayout({ children }: { children: React.ReactNode }) 
       <div className="flex-1 flex flex-col min-w-0">
 
         {/* Header */}
-        <header className="h-16 bg-white border-b border-gray-200 flex items-center justify-between px-4 lg:px-8 sticky top-0 z-30">
+        <header className="h-16 bg-black border-b border-gray-200 flex items-center justify-between px-4 lg:px-8 sticky top-0 z-30">
           <div className="flex items-center gap-4">
             <button
               onClick={() => setSidebarOpen(true)}
@@ -241,11 +247,11 @@ export default function MainLayout({ children }: { children: React.ReactNode }) 
             </button>
 
             <div className="flex items-center gap-3 pl-4 border-l border-gray-200">
-              <div className="w-10 h-10 bg-gradient-to-br from-pink-500 to-pink-600 rounded-full flex items-center justify-center">
+              <div className="w-10 h-10 bg-black border border-2xl rounded-full flex items-center justify-center">
                 <span className="text-sm font-bold text-white">AD</span>
               </div>
               <div className="hidden md:block">
-                <p className="text-sm font-bold text-gray-900">Admin User</p>
+                <p className="text-sm font-bold text-white">Admin User</p>
                 <p className="text-xs font-semibold text-gray-500">Super Admin</p>
               </div>
               <ChevronDown className="w-4 h-4 text-gray-400 hidden md:block" />

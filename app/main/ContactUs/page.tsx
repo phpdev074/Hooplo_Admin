@@ -338,7 +338,7 @@ export default function ContactUsScreen() {
             </div>
 
             {/* Refresh Button */}
-            <button className="flex items-center justify-center gap-2 px-4 py-2.5 rounded-xl bg-gradient-to-r from-pink-500 to-pink-600 text-white font-semibold hover:from-pink-600 hover:to-pink-700 transition-all shadow-lg">
+            <button className="flex items-center justify-center gap-2 px-4 py-2.5 rounded-xl bg-black text-white font-semibold hover:from-pink-600 hover:to-pink-700 transition-all shadow-lg">
               <RefreshCw className="w-5 h-5" />
               <span className="hidden md:inline">Refresh</span>
             </button>
@@ -522,7 +522,7 @@ export default function ContactUsScreen() {
                 setSelectedStatus('all');
                 setSearchQuery('');
               }}
-              className="px-6 py-2 rounded-xl bg-gradient-to-r from-pink-500 to-pink-600 text-white font-semibold hover:from-pink-600 hover:to-pink-700 transition-all"
+              className="px-6 py-2 rounded-xl bg-black text-white font-semibold hover:from-pink-600 hover:to-pink-700 transition-all"
             >
               Clear Filters
             </button>
@@ -539,7 +539,7 @@ export default function ContactUsScreen() {
               <button className="px-4 py-2 rounded-lg border border-gray-200 text-sm font-semibold text-gray-600 hover:bg-gray-50 transition-colors">
                 Previous
               </button>
-              <button className="px-4 py-2 rounded-lg bg-gradient-to-r from-pink-500 to-pink-600 text-white text-sm font-semibold">
+              <button className="px-4 py-2 rounded-lg bg-black text-white text-sm font-semibold">
                 1
               </button>
               <button className="px-4 py-2 rounded-lg border border-gray-200 text-sm font-semibold text-gray-600 hover:bg-gray-50 transition-colors">
