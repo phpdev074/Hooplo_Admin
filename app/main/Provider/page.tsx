@@ -235,7 +235,7 @@ export default function Provider({ onAddProvider, onEditProvider }: ProviderMana
         </div>
         <button
           onClick={handleAddProvider}
-          className="flex items-center gap-2 px-6 py-3 rounded-xl bg-gradient-to-r from-pink-500 to-pink-600 text-white font-semibold hover:from-pink-600 hover:to-pink-700 transition-all shadow-lg"
+          className="flex items-center gap-2 px-6 py-3 rounded-xl bg-black text-white font-semibold hover:from-pink-600 hover:to-pink-700 transition-all shadow-lg"
         >
           <Plus className="w-5 h-5" />
           <span>Add Provider</span>
@@ -403,7 +403,7 @@ export default function Provider({ onAddProvider, onEditProvider }: ProviderMana
                       <div className="flex items-center gap-3">
                         <div
                           className={`w-12 h-12 rounded-xl flex items-center justify-center overflow-hidden ${!provider.logo || imageErrorIds[provider.id]
-                            ? 'bg-gradient-to-br from-pink-500 to-pink-600'
+                            ? 'bg-black'
                             : ''
                             }`}
                         >
@@ -505,7 +505,7 @@ export default function Provider({ onAddProvider, onEditProvider }: ProviderMana
 
               <div key={provider.id} className="p-4">
                 <div className="flex items-start gap-3 mb-3">
-                  <div className="w-14 h-14 bg-gradient-to-br from-pink-500 to-pink-600 rounded-xl flex items-center justify-center flex-shrink-0">
+                  <div className="w-14 h-14 bg-black rounded-xl flex items-center justify-center flex-shrink-0">
                     <span className="text-base font-bold text-white">{provider.logo}</span>
                   </div>
                   <div className="flex-1 min-w-0">
@@ -585,7 +585,7 @@ export default function Provider({ onAddProvider, onEditProvider }: ProviderMana
                   setSelectedCategory('all');
                   setSearchQuery('');
                 }}
-                className="px-6 py-2 rounded-xl bg-gradient-to-r from-pink-500 to-pink-600 text-white font-semibold hover:from-pink-600 hover:to-pink-700 transition-all"
+                className="px-6 py-2 rounded-xl bg-black text-white font-semibold hover:from-pink-600 hover:to-pink-700 transition-all"
               >
                 Clear Filters
               </button>
@@ -614,7 +614,7 @@ export default function Provider({ onAddProvider, onEditProvider }: ProviderMana
               <button className="px-4 py-2 rounded-lg border border-gray-200 text-sm font-semibold text-gray-600 hover:bg-gray-50 transition-colors">
                 Previous
               </button>
-              <button className="px-4 py-2 rounded-lg bg-gradient-to-r from-pink-500 to-pink-600 text-white text-sm font-semibold">
+              <button className="px-4 py-2 rounded-lg bg-black text-white text-sm font-semibold">
                 1
               </button>
               <button className="px-4 py-2 rounded-lg border border-gray-200 text-sm font-semibold text-gray-600 hover:bg-gray-50 transition-colors">

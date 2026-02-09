@@ -107,7 +107,7 @@ export default function UserManagementScreen() {
     <div className="space-y-6">
       {/* Page Header */}
       <div>
-        <h2 className="text-3xl font-bold text-gray-900 mb-2">Patient Management</h2>
+        <h2 className="text-3xl font-bold text-black mb-2">Users Management</h2>
         <p className="text-gray-600 font-medium">Manage all patients, roles, and permissions</p>
       </div>
 
@@ -165,7 +165,7 @@ export default function UserManagementScreen() {
                 loadUsers(1); // Always fetch first page when switching tab
               }}
               className={`flex-1 md:flex-none md:px-6 py-3 rounded-xl font-semibold transition-all ${activeTab === 'all'
-                ? 'bg-gradient-to-r from-pink-500 to-pink-600 text-white shadow-lg'
+                ? 'bg-black text-white shadow-lg'
                 : 'text-gray-600 hover:bg-gray-100'
                 }`}
             >
@@ -180,7 +180,7 @@ export default function UserManagementScreen() {
                 loadUsers(1); // Fetch API for blocked users
               }}
               className={`flex-1 md:flex-none md:px-6 py-3 rounded-xl font-semibold transition-all ${activeTab === 'blocked'
-                ? 'bg-gradient-to-r from-pink-500 to-pink-600 text-white shadow-lg'
+                ? 'bg-black text-white shadow-lg'
                 : 'text-gray-600 hover:bg-gray-100'
                 }`}
             >
@@ -302,7 +302,7 @@ export default function UserManagementScreen() {
                 <tr key={user.id} className="hover:bg-gray-50 transition-colors">
                   <td className="px-6 py-4">
                     <div className="flex items-center gap-3">
-                      <div className="w-10 h-10 bg-gradient-to-br from-pink-500 to-pink-600 rounded-full flex items-center justify-center">
+                      <div className="w-10 h-10 bg-black rounded-full flex items-center justify-center">
                         <span className="text-sm font-bold text-white">{user.avatar}</span>
                       </div>
                       <div>
@@ -378,7 +378,7 @@ export default function UserManagementScreen() {
           {filteredUsers.map((user) => (
             <div key={user.id} className="p-4">
               <div className="flex items-start gap-3 mb-3">
-                <div className="w-12 h-12 bg-gradient-to-br from-pink-500 to-pink-600 rounded-full flex items-center justify-center flex-shrink-0">
+                <div className="w-12 h-12 bg-black rounded-full flex items-center justify-center flex-shrink-0">
                   <span className="text-sm font-bold text-white">{user.avatar}</span>
                 </div>
                 <div className="flex-1 min-w-0">
@@ -462,7 +462,7 @@ export default function UserManagementScreen() {
                 setSelectedRole('all');
                 setSearchQuery('');
               }}
-              className="px-6 py-2 rounded-xl bg-gradient-to-r from-pink-500 to-pink-600 text-white font-semibold hover:from-pink-600 hover:to-pink-700 transition-all"
+              className="px-6 py-2 rounded-xl bg-black text-white font-semibold hover:from-pink-600 hover:to-pink-700 transition-all"
             >
               Clear Filters
             </button>
@@ -479,7 +479,7 @@ export default function UserManagementScreen() {
               <button className="px-4 py-2 rounded-lg border border-gray-200 text-sm font-semibold text-gray-600 hover:bg-gray-50 transition-colors">
                 Previous
               </button>
-              <button className="px-4 py-2 rounded-lg bg-gradient-to-r from-pink-500 to-pink-600 text-white text-sm font-semibold">
+              <button className="px-4 py-2 rounded-lg bg-black text-white text-sm font-semibold">
                 1
               </button>
               <button className="px-4 py-2 rounded-lg border border-gray-200 text-sm font-semibold text-gray-600 hover:bg-gray-50 transition-colors">
@@ -510,7 +510,7 @@ export default function UserManagementScreen() {
                   key={i + 1}
                   onClick={() => handlePageChange(i + 1)}
                   className={`px-4 py-2 rounded-lg text-sm font-semibold transition-colors ${page === i + 1
-                    ? 'bg-gradient-to-r from-pink-500 to-pink-600 text-white'
+                    ? 'bg-black text-white'
                     : 'border border-gray-200 text-gray-600 hover:bg-gray-50'
                     }`}
                 >

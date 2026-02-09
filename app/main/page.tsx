@@ -32,8 +32,8 @@ export default function DashboardPage() {
   }, []);
 
   const userTypeData = [
-    { name: 'Patients', value: stats.patients, color: '#ec4899' },
-    { name: 'Providers', value: stats.providers, color: '#8b5cf6' },
+    { name: 'Patients', value: stats.patients, color: '#28282B' },
+    { name: 'Providers', value: stats.providers, color: '#eeecf1' },
     // { name: 'Clinics', value: 156, color: '#06b6d4' },
   ];
 
@@ -42,7 +42,7 @@ export default function DashboardPage() {
     <>
       {/* Page Header */}
       <div className="mb-8">
-        <h2 className="text-3xl font-bold text-gray-900 mb-2">Dashboard Overview</h2>
+        <h2 className="text-3xl font-bold text-black mb-2">Dashboard Overview</h2>
         <p className="text-gray-600 font-medium">Welcome back! Here's what's happening today.</p>
       </div>
 
@@ -55,8 +55,8 @@ export default function DashboardPage() {
           className="bg-white rounded-2xl p-6 shadow-sm border border-gray-100"
         >
           <div className="flex items-center justify-between mb-4">
-            <div className="w-12 h-12 bg-pink-100 rounded-xl flex items-center justify-center">
-              <Users className="w-6 h-6 text-pink-600" />
+            <div className="w-12 h-12 bg-black rounded-xl flex items-center justify-center">
+              <Users className="w-6 h-6 text-white " />
             </div>
             <span className="flex items-center gap-1 text-sm font-bold text-green-600">
               <TrendingUp className="w-4 h-4" />
@@ -74,8 +74,8 @@ export default function DashboardPage() {
           className="bg-white rounded-2xl p-6 shadow-sm border border-gray-100"
         >
           <div className="flex items-center justify-between mb-4">
-            <div className="w-12 h-12 bg-purple-100 rounded-xl flex items-center justify-center">
-              <Building2 className="w-6 h-6 text-purple-600" />
+            <div className="w-12 h-12 bg-black rounded-xl flex items-center justify-center">
+              <Building2 className="w-6 h-6 text-white" />
             </div>
             <span className="flex items-center gap-1 text-sm font-bold text-green-600">
               <TrendingUp className="w-4 h-4" />
@@ -83,7 +83,7 @@ export default function DashboardPage() {
             </span>
           </div>
           <h3 className="text-3xl font-bold text-gray-900 mb-1">{stats.providers}</h3>
-          <p className="text-sm font-semibold text-gray-600">Total Providers</p>
+          <p className="text-sm font-semibold text-gray-600">Active Users</p>
         </motion.div>
 
         <motion.div
@@ -93,8 +93,8 @@ export default function DashboardPage() {
           className="bg-white rounded-2xl p-6 shadow-sm border border-gray-100"
         >
           <div className="flex items-center justify-between mb-4">
-            <div className="w-12 h-12 bg-blue-100 rounded-xl flex items-center justify-center">
-              <Calendar className="w-6 h-6 text-blue-600" />
+            <div className="w-12 h-12 bg-black rounded-xl flex items-center justify-center">
+              <Calendar className="w-6 h-6 text-white" />
             </div>
             <span className="flex items-center gap-1 text-sm font-bold text-red-600">
               <TrendingDown className="w-4 h-4" />
@@ -102,7 +102,7 @@ export default function DashboardPage() {
             </span>
           </div>
           <h3 className="text-3xl font-bold text-gray-900 mb-1">0</h3>
-          <p className="text-sm font-semibold text-gray-600">Bookings Today</p>
+          <p className="text-sm font-semibold text-gray-600">Blocked Users</p>
         </motion.div>
       </div>
 

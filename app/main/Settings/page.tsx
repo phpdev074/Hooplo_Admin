@@ -105,7 +105,7 @@ export default function SettingsScreen() {
       <div className="space-y-6">
         {/* Page Header */}
         <div>
-          <h2 className="text-3xl font-bold text-gray-900 mb-2">Settings</h2>
+          <h2 className="text-3xl font-bold text-black mb-2">Settings</h2>
           <p className="text-gray-600 font-medium">Manage your account settings and preferences</p>
         </div>
 
@@ -227,7 +227,7 @@ export default function SettingsScreen() {
                 </button>
                 <button
                   onClick={handleSaveProfile}
-                  className="flex-1 px-6 py-3 rounded-xl bg-gradient-to-r from-pink-500 to-pink-600 text-white font-semibold hover:from-pink-600 hover:to-pink-700 transition-all shadow-lg flex items-center justify-center gap-2"
+                  className="flex-1 px-6 py-3 rounded-xl bg-black text-white font-semibold hover:from-pink-600 hover:to-pink-700 transition-all shadow-lg flex items-center justify-center gap-2"
                 >
                   <Save className="w-5 h-5" />
                   Save Changes
@@ -447,7 +447,7 @@ export default function SettingsScreen() {
           </button>
           <button
             onClick={handleChangePassword}
-            className="flex-1 px-6 py-3 rounded-xl bg-gradient-to-r from-pink-500 to-pink-600 text-white font-semibold hover:from-pink-600 hover:to-pink-700 transition-all shadow-lg flex items-center justify-center gap-2"
+            className="flex-1 px-6 py-3 rounded-xl bg-black text-white font-semibold hover:from-pink-600 hover:to-pink-700 transition-all shadow-lg flex items-center justify-center gap-2"
           >
             <Lock className="w-5 h-5" />
             Change Password
